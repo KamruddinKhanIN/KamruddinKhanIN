@@ -11,6 +11,7 @@ Your friendly neighborhood coder with a passion for building great web applicati
 * ✉️  You can contact me at [hello@kamruddin.dev](mailto:hello@kamruddin.dev)
 * 🧠  I'm learning MERN
 * 🤝  I'm open to collaborating on End To End Web Apps
+* ⚡  My Secret Alias is ACCIO🤫
 
 ### Skills
 
